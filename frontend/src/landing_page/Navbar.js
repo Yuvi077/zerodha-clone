@@ -9,10 +9,10 @@ function Navbar() {
       <div class="container p-2">
         <a class="navbar-brand" href="#">
           <img
-            src="media/images/logo.svg"
-            style={{ width: "25%" }}
-            alt="Logo"
-          />
+          src="https://zerodha.com/static/images/logo.svg"
+          style={{ width: "150px", height: "auto" }}
+          alt="Zerodha"
+/>
         </a>
         <button
           class="navbar-toggler"
